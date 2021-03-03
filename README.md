@@ -1,4 +1,4 @@
-Sarah Ismail
+## Sarah Ismail
 
 You can use the [editor on GitHub](https://github.com/sarahismail667/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
