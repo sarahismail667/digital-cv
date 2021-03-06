@@ -1,8 +1,6 @@
 ## Sarah Ismail
 
-I am strongly focused and have the ability to complete multiple tasks in a fast-paced environment, with conflicting deadlines. Motivated to learn new skills to meet job requirements. 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A strongly focused individual with the ability to complete multiple tasks in a fast-paced environment, with conflicting deadlines. Motivated to learn new skills, to meet job requirements.
 
 ### Markdown
 
